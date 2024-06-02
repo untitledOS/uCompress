@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 current_user=$(whoami)
-script_path="/home/$current_user/.local/share/ucompress/main.py"
+script_path="/home/$current_user/.local/share/untitledOS/ucompress/main.py"
 python3 $script_path
